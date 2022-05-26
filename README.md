@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github.com/banece/single-price-grid-component-master](https://github.com/banece/single-price-grid-component-master)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [banece.github.io/single-price-grid-component-master](https://banece.github.io/single-price-grid-component-master)
 
 ## My process
 
@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-
+Basic CSS Flexbox and Grid.
 
 ### Continued development
 
