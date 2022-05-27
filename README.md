@@ -58,4 +58,4 @@ Learning to use more of Flexbox and Grid. Incorporate some JavaScript.
 
 ## Acknowledgments
 
-
+- [Idea for a layout solution by joyantony](https://github.com/joyantony/single-price-grid-component-master)
