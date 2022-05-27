@@ -41,7 +41,7 @@ div {
 }
 
 section {
-    padding: 0 2em 1rem 2rem;
+    padding: 0 1.8em 1rem 2rem;
 }
 
 .info {
@@ -78,17 +78,40 @@ section {
 
 .price p {
     font-size: 1rem;
-    padding-top: 1.2rem;
+}
+
+.pricing {
+    padding: 1.5rem 0 1rem 0;
+    color: #71DADC;
 }
 
 .price p > span {
+    display: inline;
+    vertical-align: middle;
+    color: white;
     font-size: 2rem;
+    padding-right: 0.75rem;
 }
 
 #low {
     color: var(--background);
     font-size: 1rem;
     display: inline;
+}
+
+.price button {
+    display: block;
+    width: 100%;
+    background-color: var(--secondary);
+    border: none;
+    padding: 1rem 0;
+    font-size: 1.3rem;
+    color: white;
+    border-radius: 9px;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    -webkit-box-shadow: 8px 8px 18px -7px rgba(0,0,0,0.4); 
+    box-shadow: 8px 8px 18px -7px rgba(0,0,0,0.4);
 }
 
 .why-us {
@@ -98,7 +121,7 @@ section {
 }
 
 .why-us h3 {
-    padding-bottom: 1rem;
+    padding-bottom: 1.5rem;
 }
 
 .why-us ul {
@@ -108,9 +131,15 @@ section {
     padding-bottom: 1rem;
 }
 
+.why-us li {
+    margin-bottom: 0.2rem;
+    color: #9BEAED;
+}
+
 @media screen and (min-width: 768px){
     div {
         grid-template-columns: 1fr 1fr;
+        max-width: 600px;
     }
     div .info {
         grid-area: 1 / 1 / 2 / 3;
