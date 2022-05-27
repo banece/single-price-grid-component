@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github.com/banece/single-price-grid-component-master](https://github.com/banece/single-price-grid-component-master)
-- Live Site URL: [banece.github.io/single-price-grid-component-master](https://banece.github.io/single-price-grid-component-master)
+- Solution URL: [github.com/banece/single-price-grid-component-master](https://github.com/banece/single-price-grid-component)
+- Live Site URL: [banece.github.io/single-price-grid-component-master](https://banece.github.io/single-price-grid-component)
 
 ## My process
 
