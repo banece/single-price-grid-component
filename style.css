@@ -108,8 +108,8 @@ section {
     font-size: 1.3rem;
     color: white;
     border-radius: 9px;
-    margin-top: 2rem;
     margin-bottom: 1rem;
+    margin-top: 2rem;
     -webkit-box-shadow: 8px 8px 18px -7px rgba(0,0,0,0.4); 
     box-shadow: 8px 8px 18px -7px rgba(0,0,0,0.4);
 }
