@@ -50,6 +50,7 @@ Learning to use more of Flexbox and Grid. Incorporate some JavaScript.
 ### Useful resources
 
 - [MDN Web Docs by Mozzila](https://developer.mozilla.org/en-US/) 
+
 ## Author
 
 - Website - [banece](https://github.com/banece)
@@ -57,3 +58,5 @@ Learning to use more of Flexbox and Grid. Incorporate some JavaScript.
 ## Acknowledgments
 
 - [Idea for a layout solution by joyantony](https://github.com/joyantony/single-price-grid-component-master)
+
+*For some reason button element won't work on the Github Pages so I'm pasting a screenshot here: [Imgur](https://imgur.com/a/MmMg1aO)
